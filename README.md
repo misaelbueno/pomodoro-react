@@ -1,5 +1,5 @@
 
-# Boas vindas ao repositório do projeto Fake Racer!
+# Boas vindas ao repositório do projeto Pomodoro
 
 Este repositório consiste em um teste técnico que foi feito um pomodoro, para ser mais prático, o tempo é contado em segundos.
 
